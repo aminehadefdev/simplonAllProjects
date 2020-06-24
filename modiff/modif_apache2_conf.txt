@@ -1,0 +1,3 @@
+modiff du 27/02/2020 =>
+	faire fonctionner phpmyadmin
+	ajout ligne 228 => include /etc/phpmyadmin/apache.conf
